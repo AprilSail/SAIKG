@@ -1,0 +1,38 @@
+Transfer point	0
+Training subject	1
+Reconnaissance object	2
+Survey site	3
+Standby point	4
+Support object	5
+Reconnaissance site	6
+Support cover	7
+Handover object	8
+Search and verify the location	9
+Search and verify objects	10
+Patrol spot	11
+Convoy point	12
+Response site	13
+Maintenance site	14
+Tracking surveillance sites	15
+Exercise location	16
+Warning point	17
+Duty station	18
+Place of handover	19
+Activity location	20
+Production location	21
+Trespassing site	22
+Shelter point	23
+Anchorage point	24
+Training site	25
+Place of transport	26
+Exercise content	27
+Processing object	28
+Replenishment object	29
+Experimental site	30
+Transport content	31
+Rescue site	32
+Departure point	33
+Rescue object	34
+Mission location	35
+Supply point	36
+Tracking monitor	37
